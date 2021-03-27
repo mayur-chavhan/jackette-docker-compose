@@ -1,0 +1,31 @@
+[
+  {
+    "id": "sitelink",
+    "type": "inputstring",
+    "name": "Site Link",
+    "value": "https://bt.etree.org/"
+  },
+  {
+    "id": "cookieheader",
+    "type": "hiddendata",
+    "name": "CookieHeader",
+    "value": "__cfduid=d1aee9e961cbf953ee0657494a4bb8ed71616873124; PHPSESSID=08rdf5a8j1657ajv0pqijq7j42"
+  },
+  {
+    "id": "lasterror",
+    "type": "hiddendata",
+    "name": "LastError",
+    "value": null
+  },
+  {
+    "id": "sortrequestedfromsite",
+    "type": "inputselect",
+    "name": "Sort requested from site",
+    "value": "added",
+    "options": {
+      "added": "created",
+      "seeders": "seeders",
+      "name": "title"
+    }
+  }
+]

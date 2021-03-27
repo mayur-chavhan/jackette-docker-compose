@@ -1,0 +1,20 @@
+[
+  {
+    "id": "sitelink",
+    "type": "inputstring",
+    "name": "Site Link",
+    "value": "https://www.jjangt.com/"
+  },
+  {
+    "id": "cookieheader",
+    "type": "hiddendata",
+    "name": "CookieHeader",
+    "value": "__cfduid=de9a7fd95d0fa70803ef5e76c9bbdac9f1616873123; PHPSESSID=4pkam4fhlgrptd8jsel192jgmr; 2a0d2363701f23f8a75028924a3af643=MTgyLjc3LjEwMy4yMzI%3D"
+  },
+  {
+    "id": "lasterror",
+    "type": "hiddendata",
+    "name": "LastError",
+    "value": null
+  }
+]

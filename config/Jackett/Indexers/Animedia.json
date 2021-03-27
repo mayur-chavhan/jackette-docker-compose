@@ -1,0 +1,20 @@
+[
+  {
+    "id": "sitelink",
+    "type": "inputstring",
+    "name": "Site Link",
+    "value": "https://tt.animedia.tv/"
+  },
+  {
+    "id": "cookieheader",
+    "type": "hiddendata",
+    "name": "CookieHeader",
+    "value": "__cfduid=dbf303c3c781af59f455a4d36406f86911616873121; anime_last_visit=1301513121; anime_last_activity=1616873121; anime_tracker=%7B%220%22%3A%22ajax%2Fsearch_result%2FP0%22%2C%22token%22%3A%2232f68e0ae4266479048fad1debba6d9c8757f77d490042d9c708781c166ac34977a79a236d3c027abc455df02993e6fc%22%7D; anime_csrf_token=450632d62fd96223e821f7f70b4fc0a3cbbd13e2"
+  },
+  {
+    "id": "lasterror",
+    "type": "hiddendata",
+    "name": "LastError",
+    "value": null
+  }
+]

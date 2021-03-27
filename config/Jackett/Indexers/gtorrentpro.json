@@ -1,0 +1,20 @@
+[
+  {
+    "id": "sitelink",
+    "type": "inputstring",
+    "name": "Site Link",
+    "value": "http://gtorrent.pro/"
+  },
+  {
+    "id": "cookieheader",
+    "type": "hiddendata",
+    "name": "CookieHeader",
+    "value": "__cfduid=ddd7348a8b74732689612b2d9948156751616873124; PHPSESSID=vd9aqbno8lq3mla2n3enis6022; dle_user_id=deleted; dle_password=deleted; dle_hash=deleted"
+  },
+  {
+    "id": "lasterror",
+    "type": "hiddendata",
+    "name": "LastError",
+    "value": null
+  }
+]

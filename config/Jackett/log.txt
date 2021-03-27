@@ -1,0 +1,275 @@
+2021-03-28 00:49:47.3593 Info Starting Jackett v0.17.794 
+2021-03-28 00:49:48.0433 Info Environment version: 5.0.4 (/app/Jackett/) 
+2021-03-28 00:49:48.0449 Info OS version: Unix 5.8.0.48 (64bit OS) (64bit process) 
+2021-03-28 00:49:48.0449 Info Jackett variant: CoreLinuxAmdx64 
+2021-03-28 00:49:48.0449 Info File /etc/issue: Ubuntu 18.04.5 LTS \n \l 
+2021-03-28 00:49:48.0449 Info Running in Docker: Yes (image build: v0.17.794-ls25) 
+2021-03-28 00:49:48.0449 Info ThreadPool MaxThreads: 32767 workerThreads, 1000 completionPortThreads 
+2021-03-28 00:49:48.0449 Info App config/log directory: /config/Jackett 
+2021-03-28 00:49:48.0449 Info Using proxy: Disabled 
+2021-03-28 00:49:48.0449 Info Using FlareSolverr: No 
+2021-03-28 00:49:48.0530 Info Using HTTP Client: HttpWebClient2 
+2021-03-28 00:49:48.0584 Info Loading Native indexers ... 
+2021-03-28 00:49:48.1828 Info Loaded 96 Native indexers: abnormal, alpharatio, anidex, anidub, AniLibria, animebytes, Animedia, animetorrents, anthelion, avistaz, bakabt, bb, bitcityreloaded, bithdtv, bjshare, broadcasthenet, brokenstones, cgpeers, cinecalidad, cinemaz, darmowetorenty, dicmusic, digitalcore, divxtotal, elitetracker, epublibre, exoticaz, filelist, funfile, fuzer, gazellegames, gimmepeers, hdbitsapi, hdspace, hdtorrents, hebits, immortalseed, internetarchive, iptorrents, libble, lostfilm, magnetico, mejortorrent, milkie, morethantv, myanonamouse, ncore, nebulance, newpct, norbits, orpheus, partis, passthepopcorn, piratethenet, pixelhd, polishtracker, pornolab, pretome, privatehd, rarbg, redacted, retroflix, revolutiontt, rutracker, scenehd, scenetime, secretcinema, sharewoodapi, shazbat, ShizaProject, showrss, solidtorrents, speedapp, speedcd, subsplease, superbits, thepiratebay, toloka, torrentbytes, torrentday, torrentech, torrentheaven, torrentleech, torrentmafya, torrentnetwork, torrent-paradise-ml, torrentscsv, torrentseeds, torrentsyndikat, tvstore, tvvault, xspeeds, xthor, yts, zonaq, animetosho 
+2021-03-28 00:49:48.1865 Info Loading Cardigann indexers from: /config/cardigann/definitions/, /etc/xdg/cardigan/definitions/, /app/Jackett/Definitions 
+2021-03-28 00:49:49.7315 Info Loaded 444 Cardigann indexers: theoccult, epizod, rainbowtracker, hdroute, totallykids, genesismovement, funreleases, arabp2p, sdbits, pornolive, nntt, aidoruonline, feedurneed, animeclipse, xbytesv2, wihd, magico, hdarea, movietorrent, acgsou, efectodoppler, dimeadozen, hdsky, pwtorrents, greekteam, karagarga, hdcity, torrenting, mma-torrents, tasmanit, cinematik, estone, bootytape, tokyotosho, wdt, sugoimusic, tekno3d, mvgroupforum, bigtorrent, ptfiles, pthome, oshenpt, snowpt, ztracker, muziekfabriek, frozenlayer, bitru, pornotor, romanianmetaltorrents, aniRena, shareisland, newretro, torrentsir, scenepalace, hellastz, torrentview, beyond-hd, torrent-turk, onejav, ibit, hdbitscom, crnaberza, twilightszoom, finvip, beyond-hd-oneurl, carpathians, turkseed, nyaasi, mesevilag, tapochek, bit-titan, potuk, sktorrent-org, xwtorrents, twilight, thehorrorcharnel, tvchaosuk, empornium2fa, lepornoinfo, microbit, torrentccf, idope, hd4fans, torrentparadise, classix, bigfangroup, torrentland, torrentsectorcrew, nbtorrents, yourbittorrent, exttorrents, anaschcc, isohunt2, teamos, keepfriends, ttsweb, demonoid, themixingbowl, parnuxi, gay-torrentsorg, portugas, losslessclub, uniondht, hamsterstudio, sdkino, hdforever, shokweb, noname-club, pier720, torrentdownloads, hdturk, woot, ydypt, amigosshare, jptv, thevault, rustorka, vsttorrents, film-paleis, lemonhd, nyaa-pantsu, redstartorrent, rapidzona, pleasuredome, thefallingangels, xwtclassics, newstudiol, spiritofrevolution, aftershock, teamhd, metaltracker, btschool, netcosmo, pttime, ilcorsaronero, trezzor, theaudioscene, rutracker-ru, gtorrent, oncesearch, crazyhd, haidan, baibako, dragonworldreloaded, moviesdvdr, p2pbg, cartoonchaos, pixelcove, beitai, arabafenice, anime-free, sosulki, tellytorrent, xxxadulttorrent, hdu, tlfbits, crazyspirits, kickasstorrents-ws, bithumen, rintor, 3changtrai, yggcookie, hdhouse, madsrevolution, 4thd, animeworld, trackeros, theempire, underverse, vsthouse, noname-clubl, mixtapetorrent, girotorrent, 0daykiev, jpopsuki, trancetraffic, danishbytes, greekdiamond, hdtime, pornforall, 1337x, seedfile, sportscult, torrentoyunindir, pornbay, casatorrent, btsow, kinorun, torrentbd, legacyhd, r3vwtf, finelite, acrossthetasman, Bittorrentfiles, gigatorrents, xiteme, piratbitl, iv-torrents, cinemageddon, theplace, gfxpeers, puntotorrent, bwtorrents, arenabg, extremetorrents, diablotorrent, eniahd, mypornclub, torrentfunk, asiancinema, myspleen, torrentlt, tjangto, hdspain, RockBox, latinop2p, theleachzone, polishsource, siambit, borgzelle, uniongang, mononokebt, rutor, torrentqq, toros, ebooks-shares, torrent4you, insanetracker, sukebei-pantsu, torrentwhiz, zetorrents, totheglory, xxxtor, pornbits, yingk, galeriens, zooqle, witchhunter, Das-Unerwartete, cilipro, kinonavse100, p2pelite, kickasstorrents-to, bitspyder, acidlounge, btnext, torrent9, torrentslocal, brasiltracker, nitro, magnet4you, btdigg, vizuk, freetorrent, lechaudron, rus-media, byrutor, mvgroupmain, immortuos, underversel, yggtorrent, mnv, sharewood, hdatmos, skytorrents-to, torrentproject, focusx, speedtorrentreloaded, thegeeks, fantasticheaven, u2, pctorrent, dariustracker, desireleasers, sexypics, torrentz2, omgwtftrackr, torrentsurf, ettv, hdonly, legittorrents, extratorrent-cd, selezen, proaudiotorrents, chdbits, anisource, cpasbien, pirateiro, 1ptbar, broadcity, xxxtorrents, torrent9clone, empornium, casstudiotv, generationfree, datascene, totheglorycookie, mteamtp, pterclub, puurhollands, soulvoice, erzsebet, bibliotik, funkytorrents, hdolimpo, dxp, peersfm, hddolby, eztv, 52pt, torrentdb, glodls, darktracker, esharenet, abtorrents, linuxtracker, hdhome, mactorrents, hdzone, pussytorrents, trupornolabs, torrentproject2, torrentkitty, scenerush, gktorrent, sukebeinyaasi, bithorlo, ebookparadijs, exkinoray, speedmasterhd, linkomanija, springsunday, ptmsg, deildu, turktorrent, torrent-pirat, 7torrents, ptsbao, libranet, torrenthr, acgrip, 3dtorrents, shellife, kinozal, firebit, torrentv, hdcenter, teracod, marinetracker, desitorrents, hush, theshow, extremlymtorrents, zamundanet, coastalcrew, hdme, hdc, hon3yhd, majomparade, btetree, extratorrent-it, newstudio, audiobookbay, unlimitz, gtorrentpro, riperam, huntorrent, pornorip, ilcorsaroblu, boxingtorrents, cpasbienclone, ccfbits, concen, tribalmixes, gay-torrents, concertos, torrent-explosiv, dark-shadow, bluebirdhd, hdtorrentsit, prostylex, purovicio, fanoin, emtrek, pornleech, fouducinema, hdbits, uhdbits, learnflakes, netlab, lesaloon, piratadigital, bitturk, torrentgalaxy, oxtorrent, asylumshare, mteamtp2fa, montorrent, torrentz2k, dmhy, ourbits, torrentmax, itorrent, piratbit, bt4g, ehentai, proporno, hqsource, sktorrent, unionfansub, btdb, zelkaorg, divteam, gaytorrentru, rintornet, filebase, aither, torrentfactory, booktracker, femdomcult, 2fast4you, racing4everyone, chilebt, rptorrents, carphunter, extremebits, catorrent, tjupt, audionews, limetorrents, backups, cinemamovies, nethd, erzsebetpl, theshinning, lastfiles, gamestorrents, blutopia, racingforme, torlock, hdchina, sporthd, torrentdownload, torrentleech-pl 
+2021-03-28 00:49:49.7315 Info Loaded 540 indexers in total 
+2021-03-28 00:49:49.7315 Info Adding aggregate indexer ('all' indexer) ... 
+2021-03-28 00:49:49.8745 Warn No XML encryptor configured. Key {0de53d49-a2e9-416b-8771-445269a2ec49} may be persisted to storage in unencrypted form. 
+2021-03-28 00:49:49.8745 Warn No XML encryptor configured. Key {0de53d49-a2e9-416b-8771-445269a2ec49} may be persisted to storage in unencrypted form. 
+2021-03-28 00:49:49.9285 Info Jackett startup finished in 3.867 s 
+2021-03-28 00:54:30.3888 Info Test search in Anime Tosho => Found 75 releases 
+2021-03-28 00:54:31.0640 Error System.Net.Http.HttpRequestException: The SSL connection could not be established, see inner exception.
+ ---> System.Exception: certificate validation failed: [Subject]
+  CN=*.epublibre.org
+
+[Issuer]
+  CN=R3, O=Let's Encrypt, C=US
+
+[Serial Number]
+  035ED33B2AF1AE1DC31932B8D68C34B6551F
+
+[Not Before]
+  3/18/2021 5:47:30 PM
+
+[Not After]
+  6/16/2021 5:47:30 PM
+
+[Thumbprint]
+  DA2B5494F5CFB3BF5EFBB7F5D6BFE92F8B823B5B
+
+   at Jackett.Common.Utils.Clients.HttpWebClient2.ValidateCertificate(HttpRequestMessage request, X509Certificate2 certificate, X509Chain chain, SslPolicyErrors sslPolicyErrors) in /home/vsts/work/1/s/src/Jackett.Common/Utils/Clients/HttpWebClient2.cs:line 50
+   at System.Net.Http.ConnectHelper.<>c__DisplayClass3_0.<EstablishSslConnectionAsync>b__0(Object sender, X509Certificate certificate, X509Chain chain, SslPolicyErrors sslPolicyErrors)
+   at System.Net.Security.SecureChannel.VerifyRemoteCertificate(RemoteCertificateValidationCallback remoteCertValidationCallback, ProtocolToken& alertToken, SslPolicyErrors& sslPolicyErrors, X509ChainStatusFlags& chainStatus)
+   at System.Net.Security.SslStream.CompleteHandshake(ProtocolToken& alertToken, SslPolicyErrors& sslPolicyErrors, X509ChainStatusFlags& chainStatus)
+   at System.Net.Security.SslStream.ForceAuthenticationAsync[TIOAdapter](TIOAdapter adapter, Boolean receiveFirst, Byte[] reAuthenticationData, Boolean isApm)
+   at System.Net.Http.ConnectHelper.EstablishSslConnectionAsyncCore(Boolean async, Stream stream, SslClientAuthenticationOptions sslOptions, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.ConnectHelper.EstablishSslConnectionAsyncCore(Boolean async, Stream stream, SslClientAuthenticationOptions sslOptions, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.CreateHttp11ConnectionAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.GetHttpConnectionAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.DecompressionHandler.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.DiagnosticsHandler.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at FlareSolverrSharp.ClearanceHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.SendAsyncCore(HttpRequestMessage request, HttpCompletionOption completionOption, Boolean async, Boolean emitTelemetryStartStop, CancellationToken cancellationToken)
+   at Jackett.Common.Utils.Clients.HttpWebClient2.Run(WebRequest webRequest) in /home/vsts/work/1/s/src/Jackett.Common/Utils/Clients/HttpWebClient2.cs:line 170
+   at Jackett.Common.Utils.Clients.WebClient.GetResultAsync(WebRequest request) in /home/vsts/work/1/s/src/Jackett.Common/Utils/Clients/WebClient.cs:line 184
+   at Jackett.Common.Indexers.BaseWebIndexer.RequestWithCookiesAsync(String url, String cookieOverride, RequestType method, String referer, IEnumerable`1 data, Dictionary`2 headers, String rawbody, Nullable`1 emulateBrowser) in /home/vsts/work/1/s/src/Jackett.Common/Indexers/BaseIndexer.cs:line 566
+   at Jackett.Common.Indexers.EpubLibre.PerformQuery(TorznabQuery query) in /home/vsts/work/1/s/src/Jackett.Common/Indexers/EpubLibre.cs:line 111
+   at Jackett.Common.Indexers.EpubLibre.ApplyConfiguration(JToken configJson) in /home/vsts/work/1/s/src/Jackett.Common/Indexers/EpubLibre.cs:line 89
+   at Jackett.Server.Controllers.IndexerApiController.UpdateConfig(ConfigItem[] config) in /home/vsts/work/1/s/src/Jackett.Server/Controllers/IndexerApiController.cs:line 97
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Jackett.Server.Middleware.CustomExceptionHandler.Invoke(HttpContext httpContext) in /home/vsts/work/1/s/src/Jackett.Server/Middleware/CustomExceptionHandler.cs:line 61 System.Net.Http.HttpRequestException: The SSL connection could not be established, see inner exception.
+ ---> System.Exception: certificate validation failed: [Subject]
+  CN=*.epublibre.org
+
+[Issuer]
+  CN=R3, O=Let's Encrypt, C=US
+
+[Serial Number]
+  035ED33B2AF1AE1DC31932B8D68C34B6551F
+
+[Not Before]
+  3/18/2021 5:47:30 PM
+
+[Not After]
+  6/16/2021 5:47:30 PM
+
+[Thumbprint]
+  DA2B5494F5CFB3BF5EFBB7F5D6BFE92F8B823B5B
+
+   at Jackett.Common.Utils.Clients.HttpWebClient2.ValidateCertificate(HttpRequestMessage request, X509Certificate2 certificate, X509Chain chain, SslPolicyErrors sslPolicyErrors) in /home/vsts/work/1/s/src/Jackett.Common/Utils/Clients/HttpWebClient2.cs:line 50
+   at System.Net.Http.ConnectHelper.<>c__DisplayClass3_0.<EstablishSslConnectionAsync>b__0(Object sender, X509Certificate certificate, X509Chain chain, SslPolicyErrors sslPolicyErrors)
+   at System.Net.Security.SecureChannel.VerifyRemoteCertificate(RemoteCertificateValidationCallback remoteCertValidationCallback, ProtocolToken& alertToken, SslPolicyErrors& sslPolicyErrors, X509ChainStatusFlags& chainStatus)
+   at System.Net.Security.SslStream.CompleteHandshake(ProtocolToken& alertToken, SslPolicyErrors& sslPolicyErrors, X509ChainStatusFlags& chainStatus)
+   at System.Net.Security.SslStream.ForceAuthenticationAsync[TIOAdapter](TIOAdapter adapter, Boolean receiveFirst, Byte[] reAuthenticationData, Boolean isApm)
+   at System.Net.Http.ConnectHelper.EstablishSslConnectionAsyncCore(Boolean async, Stream stream, SslClientAuthenticationOptions sslOptions, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.ConnectHelper.EstablishSslConnectionAsyncCore(Boolean async, Stream stream, SslClientAuthenticationOptions sslOptions, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.CreateHttp11ConnectionAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.GetHttpConnectionAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.DecompressionHandler.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.DiagnosticsHandler.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at FlareSolverrSharp.ClearanceHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.SendAsyncCore(HttpRequestMessage request, HttpCompletionOption completionOption, Boolean async, Boolean emitTelemetryStartStop, CancellationToken cancellationToken)
+   at Jackett.Common.Utils.Clients.HttpWebClient2.Run(WebRequest webRequest) in /home/vsts/work/1/s/src/Jackett.Common/Utils/Clients/HttpWebClient2.cs:line 170
+   at Jackett.Common.Utils.Clients.WebClient.GetResultAsync(WebRequest request) in /home/vsts/work/1/s/src/Jackett.Common/Utils/Clients/WebClient.cs:line 184
+   at Jackett.Common.Indexers.BaseWebIndexer.RequestWithCookiesAsync(String url, String cookieOverride, RequestType method, String referer, IEnumerable`1 data, Dictionary`2 headers, String rawbody, Nullable`1 emulateBrowser) in /home/vsts/work/1/s/src/Jackett.Common/Indexers/BaseIndexer.cs:line 566
+   at Jackett.Common.Indexers.EpubLibre.PerformQuery(TorznabQuery query) in /home/vsts/work/1/s/src/Jackett.Common/Indexers/EpubLibre.cs:line 111
+   at Jackett.Common.Indexers.EpubLibre.ApplyConfiguration(JToken configJson) in /home/vsts/work/1/s/src/Jackett.Common/Indexers/EpubLibre.cs:line 89
+   at Jackett.Server.Controllers.IndexerApiController.UpdateConfig(ConfigItem[] config) in /home/vsts/work/1/s/src/Jackett.Server/Controllers/IndexerApiController.cs:line 97
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Jackett.Server.Middleware.CustomExceptionHandler.Invoke(HttpContext httpContext) in /home/vsts/work/1/s/src/Jackett.Server/Middleware/CustomExceptionHandler.cs:line 61
+2021-03-28 00:54:32.1124 Error Jackett.Common.ExceptionWithConfigData: <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>301 Moved Permanently</title>
+</head><body>
+<h1>Moved Permanently</h1>
+<p>The document has moved <a href="https://www.mejortorrento.com/secciones.php?sec=ultimos_torrents">here</a>.</p>
+</body></html>
+
+   at Jackett.Common.Indexers.MejorTorrent.PerformQueryNewest(TorznabQuery query) in /home/vsts/work/1/s/src/Jackett.Common/Indexers/MejorTorrent.cs:line 161
+   at Jackett.Common.Indexers.MejorTorrent.PerformQuery(TorznabQuery query) in /home/vsts/work/1/s/src/Jackett.Common/Indexers/MejorTorrent.cs:line 113
+   at Jackett.Common.Indexers.MejorTorrent.ApplyConfiguration(JToken configJson) in /home/vsts/work/1/s/src/Jackett.Common/Indexers/MejorTorrent.cs:line 97
+   at Jackett.Server.Controllers.IndexerApiController.UpdateConfig(ConfigItem[] config) in /home/vsts/work/1/s/src/Jackett.Server/Controllers/IndexerApiController.cs:line 97
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Jackett.Server.Middleware.CustomExceptionHandler.Invoke(HttpContext httpContext) in /home/vsts/work/1/s/src/Jackett.Server/Middleware/CustomExceptionHandler.cs:line 61 Jackett.Common.ExceptionWithConfigData: <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>301 Moved Permanently</title>
+</head><body>
+<h1>Moved Permanently</h1>
+<p>The document has moved <a href="https://www.mejortorrento.com/secciones.php?sec=ultimos_torrents">here</a>.</p>
+</body></html>
+
+   at Jackett.Common.Indexers.MejorTorrent.PerformQueryNewest(TorznabQuery query) in /home/vsts/work/1/s/src/Jackett.Common/Indexers/MejorTorrent.cs:line 161
+   at Jackett.Common.Indexers.MejorTorrent.PerformQuery(TorznabQuery query) in /home/vsts/work/1/s/src/Jackett.Common/Indexers/MejorTorrent.cs:line 113
+   at Jackett.Common.Indexers.MejorTorrent.ApplyConfiguration(JToken configJson) in /home/vsts/work/1/s/src/Jackett.Common/Indexers/MejorTorrent.cs:line 97
+   at Jackett.Server.Controllers.IndexerApiController.UpdateConfig(ConfigItem[] config) in /home/vsts/work/1/s/src/Jackett.Server/Controllers/IndexerApiController.cs:line 97
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Jackett.Server.Middleware.CustomExceptionHandler.Invoke(HttpContext httpContext) in /home/vsts/work/1/s/src/Jackett.Server/Middleware/CustomExceptionHandler.cs:line 61
+2021-03-28 00:54:34.2357 Info Test search in ShowRSS => Found 100 releases 
+2021-03-28 00:55:24.5605 Error Error on 20210328005524 for Torrent9 clone.txtJackett.Common.ExceptionWithConfigData: Got redirected to another domain. Try changing the indexer URL to http://vww.torrent9.one/. Updated site link, please try again.
+   at Jackett.Common.Indexers.CardigannIndexer.CheckIfLoginIsNeeded(WebResult Result, IHtmlDocument document) in /home/vsts/work/1/s/src/Jackett.Common/Indexers/CardigannIndexer.cs:line 844
+   at Jackett.Common.Indexers.CardigannIndexer.PerformQuery(TorznabQuery query) in /home/vsts/work/1/s/src/Jackett.Common/Indexers/CardigannIndexer.cs:line 1332
+
+
+
+
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>301 Moved Permanently</title>
+<script src="/cdn-cgi/apps/head/EC1t-oghTDjnEYczwbuObIoXb68.js"></script></head><body>
+<h1>Moved Permanently</h1>
+<p>The document has moved <a href="http://vww.torrent9.one/recherche/devops">here</a>.</p>
+</body></html>
+ 
+2021-03-28 00:55:29.4080 Info CardigannIndexer (anisource): Relogin required 
+2021-03-28 00:55:34.2675 Info CardigannIndexer (anisource): Relogin required 
+2021-03-28 00:55:37.3801 Info CardigannIndexer (anisource): Relogin required 
+2021-03-28 00:55:41.6656 Info CardigannIndexer (anisource): Relogin required 
+2021-03-28 00:56:01.4069 Info Torznab search in AggregateSearch for devops => Found 465 releases 
+2021-03-28 00:56:09.1184 Error Exception in GetConfigurationForSetup (torrentgalaxy): System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 100 seconds elapsing.
+ ---> System.TimeoutException: The operation was canceled.
+ ---> System.Threading.Tasks.TaskCanceledException: The operation was canceled.
+   at System.Net.Http.ConnectHelper.ConnectAsync(Func`3 callback, DnsEndPoint endPoint, HttpRequestMessage requestMessage, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.CreateHttp11ConnectionAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.GetHttpConnectionAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.DecompressionHandler.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.DiagnosticsHandler.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at FlareSolverrSharp.ClearanceHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.SendAsyncCore(HttpRequestMessage request, HttpCompletionOption completionOption, Boolean async, Boolean emitTelemetryStartStop, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   --- End of inner exception stack trace ---
+   at System.Net.Http.HttpClient.SendAsyncCore(HttpRequestMessage request, HttpCompletionOption completionOption, Boolean async, Boolean emitTelemetryStartStop, CancellationToken cancellationToken)
+   at Jackett.Common.Utils.Clients.HttpWebClient2.Run(WebRequest webRequest) in /home/vsts/work/1/s/src/Jackett.Common/Utils/Clients/HttpWebClient2.cs:line 170
+   at Jackett.Common.Utils.Clients.WebClient.GetResultAsync(WebRequest request) in /home/vsts/work/1/s/src/Jackett.Common/Utils/Clients/WebClient.cs:line 207
+   at Jackett.Common.Indexers.BaseWebIndexer.RequestWithCookiesAsync(String url, String cookieOverride, RequestType method, String referer, IEnumerable`1 data, Dictionary`2 headers, String rawbody, Nullable`1 emulateBrowser) in /home/vsts/work/1/s/src/Jackett.Common/Indexers/BaseIndexer.cs:line 570
+   at Jackett.Common.Indexers.CardigannIndexer.GetConfigurationForSetup(Boolean automaticlogin) in /home/vsts/work/1/s/src/Jackett.Common/Indexers/CardigannIndexer.cs:line 959
+   at Jackett.Common.Indexers.CardigannIndexer.GetConfigurationForSetup() in /home/vsts/work/1/s/src/Jackett.Common/Indexers/CardigannIndexer.cs:line 875 
+2021-03-28 00:56:13.5862 Error System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 100 seconds elapsing.
+ ---> System.TimeoutException: The operation was canceled.
+ ---> System.Threading.Tasks.TaskCanceledException: The operation was canceled.
+   at System.Net.Http.ConnectHelper.ConnectAsync(Func`3 callback, DnsEndPoint endPoint, HttpRequestMessage requestMessage, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.CreateHttp11ConnectionAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.GetHttpConnectionAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.DecompressionHandler.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.DiagnosticsHandler.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at FlareSolverrSharp.ClearanceHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.SendAsyncCore(HttpRequestMessage request, HttpCompletionOption completionOption, Boolean async, Boolean emitTelemetryStartStop, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   --- End of inner exception stack trace ---
+   at System.Net.Http.HttpClient.SendAsyncCore(HttpRequestMessage request, HttpCompletionOption completionOption, Boolean async, Boolean emitTelemetryStartStop, CancellationToken cancellationToken)
+   at Jackett.Common.Utils.Clients.HttpWebClient2.Run(WebRequest webRequest) in /home/vsts/work/1/s/src/Jackett.Common/Utils/Clients/HttpWebClient2.cs:line 170
+   at Jackett.Common.Utils.Clients.WebClient.GetResultAsync(WebRequest request) in /home/vsts/work/1/s/src/Jackett.Common/Utils/Clients/WebClient.cs:line 207
+   at Jackett.Common.Indexers.BaseWebIndexer.RequestWithCookiesAsync(String url, String cookieOverride, RequestType method, String referer, IEnumerable`1 data, Dictionary`2 headers, String rawbody, Nullable`1 emulateBrowser) in /home/vsts/work/1/s/src/Jackett.Common/Indexers/BaseIndexer.cs:line 570
+   at Jackett.Common.Indexers.SolidTorrents.SendSearchRequest(String searchString, String category, Int32 page) in /home/vsts/work/1/s/src/Jackett.Common/Indexers/SolidTorrents.cs:line 127
+   at Jackett.Common.Indexers.SolidTorrents.PerformQuery(TorznabQuery query) in /home/vsts/work/1/s/src/Jackett.Common/Indexers/SolidTorrents.cs:line 146
+   at Jackett.Common.Indexers.SolidTorrents.ApplyConfiguration(JToken configJson) in /home/vsts/work/1/s/src/Jackett.Common/Indexers/SolidTorrents.cs:line 91
+   at Jackett.Server.Controllers.IndexerApiController.UpdateConfig(ConfigItem[] config) in /home/vsts/work/1/s/src/Jackett.Server/Controllers/IndexerApiController.cs:line 113
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Jackett.Server.Middleware.CustomExceptionHandler.Invoke(HttpContext httpContext) in /home/vsts/work/1/s/src/Jackett.Server/Middleware/CustomExceptionHandler.cs:line 61 System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 100 seconds elapsing.
+ ---> System.TimeoutException: The operation was canceled.
+ ---> System.Threading.Tasks.TaskCanceledException: The operation was canceled.
+   at System.Net.Http.ConnectHelper.ConnectAsync(Func`3 callback, DnsEndPoint endPoint, HttpRequestMessage requestMessage, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.CreateHttp11ConnectionAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.GetHttpConnectionAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.DecompressionHandler.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.DiagnosticsHandler.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at FlareSolverrSharp.ClearanceHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.SendAsyncCore(HttpRequestMessage request, HttpCompletionOption completionOption, Boolean async, Boolean emitTelemetryStartStop, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   --- End of inner exception stack trace ---
+   at System.Net.Http.HttpClient.SendAsyncCore(HttpRequestMessage request, HttpCompletionOption completionOption, Boolean async, Boolean emitTelemetryStartStop, CancellationToken cancellationToken)
+   at Jackett.Common.Utils.Clients.HttpWebClient2.Run(WebRequest webRequest) in /home/vsts/work/1/s/src/Jackett.Common/Utils/Clients/HttpWebClient2.cs:line 170
+   at Jackett.Common.Utils.Clients.WebClient.GetResultAsync(WebRequest request) in /home/vsts/work/1/s/src/Jackett.Common/Utils/Clients/WebClient.cs:line 207
+   at Jackett.Common.Indexers.BaseWebIndexer.RequestWithCookiesAsync(String url, String cookieOverride, RequestType method, String referer, IEnumerable`1 data, Dictionary`2 headers, String rawbody, Nullable`1 emulateBrowser) in /home/vsts/work/1/s/src/Jackett.Common/Indexers/BaseIndexer.cs:line 570
+   at Jackett.Common.Indexers.SolidTorrents.SendSearchRequest(String searchString, String category, Int32 page) in /home/vsts/work/1/s/src/Jackett.Common/Indexers/SolidTorrents.cs:line 127
+   at Jackett.Common.Indexers.SolidTorrents.PerformQuery(TorznabQuery query) in /home/vsts/work/1/s/src/Jackett.Common/Indexers/SolidTorrents.cs:line 146
+   at Jackett.Common.Indexers.SolidTorrents.ApplyConfiguration(JToken configJson) in /home/vsts/work/1/s/src/Jackett.Common/Indexers/SolidTorrents.cs:line 91
+   at Jackett.Server.Controllers.IndexerApiController.UpdateConfig(ConfigItem[] config) in /home/vsts/work/1/s/src/Jackett.Server/Controllers/IndexerApiController.cs:line 113
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Jackett.Server.Middleware.CustomExceptionHandler.Invoke(HttpContext httpContext) in /home/vsts/work/1/s/src/Jackett.Server/Middleware/CustomExceptionHandler.cs:line 61
