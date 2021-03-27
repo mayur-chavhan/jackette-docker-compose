@@ -273,3 +273,5 @@
    at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
    at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
    at Jackett.Server.Middleware.CustomExceptionHandler.Invoke(HttpContext httpContext) in /home/vsts/work/1/s/src/Jackett.Server/Middleware/CustomExceptionHandler.cs:line 61
+2021-03-28 01:49:49.7492 Info Checking for updates... Jackett variant: CoreLinuxAmdx64 
+2021-03-28 01:49:50.4271 Info Jackett is already updated. Current version: v0.17.794 
