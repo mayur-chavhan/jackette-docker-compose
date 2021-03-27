@@ -1,2 +1,4 @@
 config/
 downloads/
+!config/.gitignore
+!downloads/.gitignore
